@@ -1,8 +1,8 @@
  - 👋 Hi, I'am Akshay Mehta 
  -  👀 I hope to acquire skills in software development and data science, and if any opportunities come along that pique my interest, you can be sure that I will jump at the chance to pursue them.
  -  🌱 I’m currently majoring in Electrical Engineering department at IIT Kanpur. 
- -  💞 I’m looking to collaborate on 
- -   📫 How to reach me ? Contact me via gmail id is akshaymehta029@gmail.com or on akshaym@iitk.ac.in
+ -  💞 I’m looking to collaborate on firmware/embedded or computer networks 
+ -   📫 How to reach me ? Contact me via gmail id is akshaymehta029@gmail.com or on akshaym.iitk@gmail.com
 
 <!--
 **Akshay024/Akshay024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
